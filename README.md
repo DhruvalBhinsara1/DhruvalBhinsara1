@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhruvalBhinsara1
 - 👀 I’m interested in machine learning and neural networks.
 - 🌱 I know Python and SQL & I am learning C right now.
-- 📖 I am in my 1st sem right.
+- 📖 I am in my 2nd sem right.
 - 📫 How to reach me - dhruvalbhinsara460@gmail.com
 
 <!---
