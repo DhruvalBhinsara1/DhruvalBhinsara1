@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruval Bhinsara
 - 👀 I’m interested in machine learning and neural networks.
-- 🌱 I know Python, HTML, CSS, JavaScript and SQL & I am learning C right now.
+- 🌱 I know Python, HTML, CSS, JavaScript and SQL & C Language.
 - 📖 I am in my 2nd sem right.
 - 📫 How to reach me - dhruvalbhinsara460@gmail.com
 
