@@ -3,13 +3,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvalBhinsara1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="175" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DhruvalBhinsara1.DhruvalBhinsara1&"  />
+</div>
 
 ###
 
@@ -52,10 +58,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/snake.svg" alt="Snake animation" />
 
 ###
-<!---
-DhruvalBhinsara1/DhruvalBhinsara1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31nz5lg3reabhkvyx2qk3f3vp4la">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nz5lg3reabhkvyx2qk3f3vp4la&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
