@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Dhruval Bhinsara and I'm a Data Analyst, from India</h1>
+<h1 align="left">Hi 👋! I am Dhruval Bhinsara and I enjoy Data Analysis.</h1>
 
 ###
 
