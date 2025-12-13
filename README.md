@@ -59,8 +59,8 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31nz5lg3reabhkvyx2qk3f3vp4la">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nz5lg3reabhkvyx2qk3f3vp4la&count=10&unique=true" alt="Spotify recently played"  />
+  <a href="https://music.apple.com/profile/DhruvalBhinsara">
+    <img src="https://img.shields.io/badge/Listening%20on-Apple%20Music-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
 </div>
 
