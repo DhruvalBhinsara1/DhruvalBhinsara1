@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Dhruval Bhinsara</h1>
-<h3 align="center">Computer Science Student | Software Developer</h3>
+<h3 align="center">Computer Science Student | Machine Learning Engineer. </h3>
 
 <p align="center">
   I enjoy building things with code, solving problems, and learning new technologies.
@@ -26,8 +26,8 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student
-- 💻 Interested in software development & data analysis
-- 🧠 Solving problems on LeetCode
+- 💻 Interested in Machine Learning Engineer & Data Analysis
+- 🧠 Crunch Numbers
 - 🎧 Music keeps me focused while coding
 
 ---
