@@ -1,67 +1,62 @@
-<h1 align="center">Hey! 🙋‍♂️ I'm Dhruval Bhinsara, and I enjoy Data Analysis.</h1>
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Dhruval Bhinsara</h1>
+<h3 align="center">Computer Science Student | Software Developer</h3>
 
-###
+<p align="center">
+  I enjoy building things with code, solving problems, and learning new technologies.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvalBhinsara1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&custom_title=Languages%20I%20Use" height="269" alt="languages graph"  />
-</div>
+---
 
-###
-
-<img align="right" height="175" src="https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DhruvalBhinsara1.DhruvalBhinsara1&"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="youtube.com/@oobs_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="instagram.com/@dhruvalbhinsara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="dhruvalbhinsara460@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<!-- ================= SOCIAL LINKS ================= -->
+<p align="center">
   <a href="https://www.linkedin.com/in/dhruvalbhinsara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://music.apple.com/profile/DhruvalBhinsara">
-    <img src="https://img.shields.io/badge/Listening%20on-Apple%20Music-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
+  <a href="https://leetcode.com/u/DhruvalBhinsara/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</div>
+  <a href="https://music.apple.com/profile/DhruvalBhinsara" target="_blank">
+    <img src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" />
+  </a>
+</p>
 
-###
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student
+- 💻 Interested in software development & data analysis
+- 🧠 Solving problems on LeetCode
+- 🎧 Music keeps me focused while coding
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,mysql,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalBhinsara1&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DhruvalBhinsara?theme=dark&font=Baloo" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Keep learning. Keep building." 🚀</em>
+</p>
