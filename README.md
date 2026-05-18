@@ -1,62 +1,39 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Dhruval Bhinsara</h1>
-<h3 align="center">Computer Science Student | Machine Learning Engineer. </h3>
+## Hi there 👋,
 
-<p align="center">
-  I enjoy building things with code, solving problems, and learning new technologies.
-</p>
+### I'm Dhruval Bhinsara, a passionate developer with a keen interest in machine learning and mobile app development.
+-------
 
----
+## 🧐 About
 
-<!-- ================= SOCIAL LINKS ================= -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruvalbhinsara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/DhruvalBhinsara/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://music.apple.com/profile/DhruvalBhinsara" target="_blank">
-    <img src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" />
-  </a>
-</p>
+- 🚀 Actively contributing to the open-source community since 2019, with 18 public repositories and 417 commits
+- 💻 Skilled in Python, specializing in machine learning projects and utilizing Jupyter Notebook for analysis
+- 🤖 Developed innovative solutions like "FasalVaidya," the AI-powered crop health diagnosis app
+- 📱 Proficient in mobile app development, as seen in projects like "E-commerce-Funnel-Analysis"
+- 🤝 Active collaborator with 12 PRs across various repositories, including "LeetCode-Questions" and "Vehicle-Registration-Analysis"
+- 🌱 Currently diving into ML Engineering and iOS development, seeking freelance work and internships
+  
 
----
+- 💬 Reach out to me for projects and collaborations!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhruvalbhinsara/)
 
-## 🚀 About Me
+...  
 
-- 🎓 Computer Science student
-- 💻 Interested in Machine Learning Engineer & Data Analysis
-- 🧠 Crunch Numbers
-- 🎧 Music keeps me focused while coding
+## 🛠️ Skills
 
----
+- Python | Machine Learning | Data Analysis
+- Jupyter Notebook | Android Studio
 
-## 🧰 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,mysql,git,github,linux" />
-</p>
+## 🔥 My Best Projects
 
----
+- [FasalVaidya](https://github.com/DhruvalBhinsara1/FasalVaidya): AI-powered crop health diagnosis app
+- [E-commerce-Funnel-Analysis](https://github.com/DhruvalBhinsara1/E-commerce-Funnel-Analysis): Mobile app for analyzing e-commerce traffic
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalBhinsara1&layout=compact&theme=dark" />
-</p>
+### GitHub Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalBhinsara1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DhruvalBhinsara1)](https://github.com/DhruvalBhinsara1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvalBhinsara1)](https://git.io/streak-stats)
 
----
-
-## 🧠 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/DhruvalBhinsara?theme=dark&font=Baloo" />
-</p>
-
----
-
-<p align="center">
-  <em>"Keep learning. Keep building." 🚀</em>
-</p>
+Let's connect and collaborate on exciting projects! 🚀
