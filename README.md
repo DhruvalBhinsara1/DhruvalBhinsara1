@@ -1,235 +1,139 @@
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=220&section=header&text=Dhruval%20Bhinsara&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="wave" /> Hey, I'm Dhruval Bhinsara
+  <a href="https://linkedin.com/in/dhruvalbhinsara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DhruvalBhinsara1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dhruvalbhinsara460@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dhruvalbhinsara.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 
-### `Computer Science Student` • `ML & AI` • `Full Stack Development`
+  <br><br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Working+with+React%2C+React+Native+and+backend+systems;Learning+machine+learning%2C+systems+and+product+engineering;Turning+ideas+into+usable+digital+experiences"
-  alt="Typing intro"
-/>
-
-<br />
-<br />
-
-<a href="https://dhruvalbhinsara.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://thedhruvalgp.vercel.app/">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://instagram.com/dhruvalbhinsara">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/DhruvalBhinsara1?tab=followers">
-  <img src="https://img.shields.io/github/followers/DhruvalBhinsara1?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=111827" alt="GitHub followers" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;PyTorch+%26+Deep+Learning;iOS+Development+(SwiftUI);Building+Production-Grade+AI" alt="Typing animation" />
 
 </div>
 
----
+<br>
 
-## About Me
-
-I'm **Dhruval Bhinsara**, a Computer Science student who enjoys building things across AI, mobile apps, backend systems, and modern interfaces.
-
-I like projects where I can connect an idea to something people can actually use: a clean frontend, a working backend, a useful model, or a small tool that solves a real problem.
-
-Currently, I am focused on:
-
-- Machine Learning and AI-powered applications
-- React Native and full-stack web development
-- Backend engineering and scalable API design
-- Open-source contributions through GSSoC
-- Improving product quality through better UI, testing, and code reviews
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css" alt="Languages" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,pytorch,tailwind" alt="Frameworks and libraries" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,vercel" alt="Databases and cloud" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,linux,postman" alt="Tools" />
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>FasalVaidya</h3>
-      <p>AI-powered crop health diagnosis system focused on practical agricultural support.</p>
-      <ul>
-        <li>React Native + Flask</li>
-        <li>Image-based deficiency detection</li>
-        <li>Multi-language experience</li>
-        <li>ML-backed diagnosis flow</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Who am I?</h2>
+      I am a <b>Computer Science undergraduate (2024–2028)</b> specializing in AI and Machine Learning. I focus on bridging the gap between cutting-edge models and seamless user experiences. <br><br>
+      Currently, I work as an <b>AI Engineer Intern</b> at ShivAIVerse and a <b>Freelance iOS Developer</b> for Covert Defenses, USA, building robust AI pipelines and end-to-end iOS features. <br><br>
+      My passion lies in architecting neural networks, engineering robust data pipelines, and deploying intelligent features into the real world.
     </td>
-    <td width="50%">
-      <h3>Machine Learning Journey</h3>
-      <p>A collection of ML experiments, notebooks, and implementation practice.</p>
-      <ul>
-        <li>Data preprocessing</li>
-        <li>Model training and evaluation</li>
-        <li>Deep learning experiments</li>
-        <li>Practical ML workflows</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Traveloop</h3>
-      <p>A travel-focused application concept with modern UI and product-oriented flows.</p>
-      <ul>
-        <li>Responsive frontend</li>
-        <li>Interactive experience</li>
-        <li>Modern design system</li>
-        <li>Cross-platform thinking</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Data Analysis Projects</h3>
-      <p>Python-based analysis and visualization projects for learning from data.</p>
-      <ul>
-        <li>Data cleaning</li>
-        <li>Exploratory analysis</li>
-        <li>Visualization dashboards</li>
-        <li>Insights and reporting</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Focus Areas</h2>
+      <blockquote>
+        🧠 <b>Machine Learning:</b> PyTorch, Neural Networks, LLMs<br>
+        📱 <b>Mobile Engineering:</b> iOS (SwiftUI), React Native<br>
+        ⚙️ <b>Backend & AI Ops:</b> Flask, REST APIs, Python<br>
+        📊 <b>Data Science:</b> Pandas, NumPy, Scikit-learn
+      </blockquote>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## Open Source
-
-I contribute by looking for issues that are real, reproducible, and useful to fix. My usual workflow is:
-
-```txt
-Understand the repo -> check duplicates -> reproduce the issue
--> write a focused fix -> add tests where useful -> follow CI and reviews
-```
-
-Recent contribution focus:
-
-- Bug fixes with clear reproduction steps
-- UI and state-handling improvements
-- Tests for edge cases
-- PR follow-up, CI checks, and review feedback
-
----
-
-## GitHub Analytics
+<h2 align="center">🗓️ Professional Experience & Education</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvalBhinsara1&theme=tokyonight" alt="GitHub profile summary" />
-
-<br />
-<br />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhruvalBhinsara1&theme=tokyonight" alt="Top languages by repository" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvalBhinsara1&theme=tokyonight" alt="GitHub stats summary" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=DhruvalBhinsara1&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak stats" />
+| Role / Institution | Details |
+| :--- | :--- |
+| **AI Engineer Intern**<br>@ *ShivAIVerse*<br>*(Jul 2026 – Sep 2026)* | ◦ Building and optimizing machine learning models for production applications.<br>◦ Developing AI-driven features and robust data pipelines. |
+| **Freelance iOS Developer**<br>@ *Covert Defenses, USA*<br>*(May 2026 – Present)* | ◦ Delivering end-to-end iOS features for a production app using **SwiftUI**.<br>◦ Maintaining structured Git workflows in async, collaborative environments. |
+| **B.Tech in Computer Science**<br>@ *Parul University*<br>*(2024 – 2028)* | ◦ **Coursework:** DSA, DBMS, OOP, Machine Learning Fundamentals.<br>◦ **Certifications:** PyTorch, OpenAI API, LLMs (Codecademy), IBM Data Science. |
 
 </div>
 
----
+<br>
 
-## Contribution Graph
+<h2 align="center">🚀 Featured Engineering Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DhruvalBhinsara1">⚡ EV Charging Load Prediction</a></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      </div>
+      <br>
+      Built a PyTorch feedforward neural network (26→56→26→1) to predict EV charging demand from 6,833 real-world sessions. Engineered 26 features and successfully reduced test error by 5.5% compared to baseline linear models.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DhruvalBhinsara1">🏨 Hotel Booking Classifier</a></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neural_Networks-000000?style=flat-square&logo=c&logoColor=white" />
+      </div>
+      <br>
+      Engineered a multi-class neural network to classify booking outcomes (no-show, cancel, check-out) across 8,000+ records. Trained with Adam optimizer and CrossEntropyLoss, achieving 84% accuracy and an 0.83 weighted F1 score.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DhruvalBhinsara1">🌾 FasalVaidya (AI Crop Health)</a></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=api&logoColor=white" />
+      </div>
+      <br>
+      Developed an AI-powered mobile app detecting NPK nutrient deficiencies from leaf imagery. Integrated a Python ML model deployed via a Flask REST API, delivering inferences directly to a React Native interface.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DhruvalBhinsara1">☕ NexaBrew</a></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </div>
+      <br>
+      A responsive full-stack web application built during a hackathon. Showcases strong frontend architecture with React and TypeScript, seamless external API integration, and production-ready UI components.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <h2>🛠️ Core Stack</h2>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,swift,react,nodejs,flask,mysql,aws,docker&perline=5" alt="Core Skills" />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <h2>📊 Analytics & Activity</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=DhruvalBhinsara1&theme=tokyonight&hide_border=true" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalBhinsara1&theme=tokyonight&hide_border=true&layout=compact" height="150" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution graph snake animation"
-    src="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake.svg"
-  />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake.svg" />
+    <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/DhruvalBhinsara1/DhruvalBhinsara1/output/github-snake.svg" />
+  </picture>
 </div>
 
----
-
-## Currently Learning
+<br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,swift" alt="Currently learning" />
-
-</div>
-
-- Advanced Machine Learning
-- Deep Learning Systems
-- iOS Development
-- Scalable Backend Architecture
-- AI Infrastructure
-
----
-
-## Goals
-
-- Build useful AI products
-- Improve as a full-stack and ML engineer
-- Contribute consistently to open source
-- Create polished, reliable digital experiences
-- Learn systems deeply enough to build things that last
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://dhruvalbhinsara.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/DhruvalBhinsara1">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://instagram.com/dhruvalbhinsara">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Keep learning. Keep building."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=110&section=footer" alt="Footer wave" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=100&section=footer" width="100%" />
 </div>
